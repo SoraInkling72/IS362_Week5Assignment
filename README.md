@@ -1,3 +1,3 @@
 # IS362_Week5Assignment
 
-Here is Week 5 assignment for IS 362
+Here is my assignment for Week 5
